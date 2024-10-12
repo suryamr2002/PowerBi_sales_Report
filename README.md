@@ -1,6 +1,9 @@
-# Power BI Dashboard Project
+# Power BI Sales Report Project
 
-This repository contains files and instructions to create a Power BI dashboard. The project includes:
+<img width="628" alt="image" src="https://github.com/user-attachments/assets/da4ca3c7-f631-4008-8b69-11c8323f001d">
+
+
+This repository contains files and instructions to create a Power BI Report. The project includes:
 - Power BI (.pbix) file
 - Sample data in PDF and CSV format
 
